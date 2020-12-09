@@ -1,6 +1,10 @@
 # TicTacToe AI
 An unbeatable TicTacToe AI which was made using Alpha-Beta Pruning MiniMax Algortihm.
 
+![AI waiting for the Human to choose his side](https://i.imgur.com/wyY3w6O.png)
+
+![AI waiting for the human player to make a move](https://i.imgur.com/akEYaFs.png)
+
 ## How To Play With The AI
 
 ### Requirements
